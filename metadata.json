@@ -1,0 +1,5 @@
+{
+  "name": "GitVisualizer - Interactive Git Command Animator",
+  "description": "A high-fidelity interactive tool to visualize and understand Git commands through smooth animations and real-time state tracking across Working Directory, Staging Area, Local Repo, and Remote.",
+  "requestFramePermissions": []
+}
